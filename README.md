@@ -91,7 +91,7 @@ The analysis helps identify:
 | ---------------------------------------- | ------------------------------------- |
 | `Hospital_Emergency_Room_Dashboard.xlsx` | Complete Excel dashboard and analysis |
 | `Hospital_Emergency_Room_Data.csv`       | Raw dataset used for the analysis     |
-| `images/dashboard.png`                   | Dashboard preview                     |
+| `dashboard.png`                   | Dashboard preview                     |
 
 ## 🚀 Skills Demonstrated
 
