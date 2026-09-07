@@ -43,7 +43,7 @@ The dashboard provides an overview of key Emergency Room performance indicators,
 * Department Referrals
 * Daily Patient Visits
 
-![Hospital Emergency Room Dashboard](images/dashboard.png)
+![Hospital Emergency Room Dashboard](dashboard.png)
 
 ## 🔍 Key Analysis
 
