@@ -1,4 +1,3 @@
-# hospital-ER-dashboard
 # 🏥 Hospital Emergency Room Analysis Dashboard
 
 ## 📌 Project Overview
